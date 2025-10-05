@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p24103-e71623.adobeaemcloud.com//bin/franklin.delivery/selyomin/aem-eds-forms/main"
+    type: "markup"
+    suffix: ".html"
