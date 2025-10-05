@@ -4,5 +4,7 @@
     "/content/epm-aem-eds-forms/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/epm-aem-eds-forms/"
+    "/content/epm-aem-eds-forms/",
+    "/content/",
+    "/content/dam/"
   ]
