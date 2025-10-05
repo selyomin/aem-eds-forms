@@ -3,6 +3,7 @@
     "/content/epm-aem-eds-forms/:/"
   ],
   "includes": [
+    "/content/epm-aem-eds-forms/",
     "/content/",
     "/content/dam/"
   ]
