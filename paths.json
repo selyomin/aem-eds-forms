@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/epm-aem-eds-forms:/"
+    "/content/epm-aem-eds-forms/:/"
   ],
   "includes": [
     "/content/",
