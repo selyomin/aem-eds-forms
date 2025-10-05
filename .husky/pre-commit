@@ -1,1 +1,2 @@
-node .husky/pre-commit.mjs
+#!/bin/sh
+node .husky/pre-commit.mjs "$1"

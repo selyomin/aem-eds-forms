@@ -8,7 +8,7 @@ const run = (cmd) => new Promise((resolve, reject) => exec(
     else resolve(stdout);
   }
 ));
-
+console.log("run");
 const changeset = await run('git diff --cached --name-only --diff-filter=ACMR');
 const modifiedFiles = changeset.split('\n').filter(Boolean);
 
