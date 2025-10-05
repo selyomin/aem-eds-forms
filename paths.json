@@ -1,7 +1,5 @@
   "mappings": [
-    "/content/epm-aem-eds-forms/:/",
-    "/content/epm-aem-eds-forms/configuration:/.helix/config.json",
-    "/content/epm-aem-eds-forms/metadata:/metadata.json"
+    "/content/epm-aem-eds-forms/:/"
   ],
   "includes": [
     "/content/epm-aem-eds-forms/",
